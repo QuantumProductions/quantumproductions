@@ -8,3 +8,5 @@ layout: main
 [> Designing Minimalist Interfaces For Teaching New Cognitive Tool Use](designing_minimalist/index.html)
 
 [> Fighting Games as Geometric Debates](geometric_debates/index.html)
+
+[> Babycastles](babycastles/index.html)

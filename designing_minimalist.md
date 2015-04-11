@@ -60,5 +60,7 @@ When building a game you are designing a new language that permits new form of e
 ### References
 
 [>Quantum Pilot: Clone enemies remember how you killed them and fight back mirroring your attack](https://itunes.apple.com/us/app/quantum-pilot/id935956154?mt=8)
+
 [>Defeat Me: Kenta Cho's inspirational clone-ship SHMUP](http://wonderfl.net/c/9ykQ/)
+
 [>Design of Every Day Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654)

@@ -1,5 +1,5 @@
 ---
-title: Case Study: Designing Minimalist Interfaces For Teaching New Cognitive Tool Use
+title: Designing Minimalist Interfaces For Teaching New Cognitive Tool Use
 layout: default
 ---
 

@@ -1,0 +1,9 @@
+name: "Quantum Productions"
+description: "main."
+
+url: http://quantumproductions.github.io/quantumproductions.co
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty

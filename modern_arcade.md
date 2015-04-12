@@ -1,3 +1,9 @@
+---
+title: The Modern Arcade
+layout: default
+---
+
+
 #Where is the Modern Arcade?
 
 Quickly after their invention, the space of playing videogames transformed from computer to public space. Players gathered to cheer on their friends, compete against rivals and impress the locals. Even the act of spectatorship was a physical engagement as observers walk from one cabinet to another, watching the latest computer-mediated action unfold.

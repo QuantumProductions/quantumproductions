@@ -14,3 +14,5 @@ layout: main
 ###[> Fighting Games as Geometric Debates](geometric_debates/index.html)
 
 ###[> Babycastles](babycastles/index.html)
+
+###[> The Modern Arcade](modern_arcade/index.html)

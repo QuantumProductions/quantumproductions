@@ -1,3 +1,9 @@
+---
+title: Outsourced
+layout: default
+---
+
+
 "Come on Jessica, what's the matter?" Lisa slouches, wincing her lips in a display of concern at her friend.
 
 "It's just.. I'm afraid that if I accept the simulated strength display, I'll never be able to accept a real one!" she sighs, setting the simulator helmet down.

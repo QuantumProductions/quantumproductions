@@ -15,3 +15,7 @@ layout: main
 ###[> Babycastles](babycastles/index.html)
 
 ###[> The Modern Arcade](modern_arcade/index.html)
+
+#Bleeding Tip
+
+###[> Outsourced: Conscious processing extending from body to world through intelligent artifacts](outsourced/index.html)

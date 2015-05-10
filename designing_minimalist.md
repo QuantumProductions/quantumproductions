@@ -27,7 +27,9 @@ On the next level, the clone ship immediately fires -- giving the players the op
 
 ### Communicating the Enemy
 
-A number of players have requested some special signifier on the enemy ships to differentiate them from you. At this point I had the clones simply facing the opposite direction. Their ship color matched the color of the
+A number of players have requested some special signifier on the enemy ships to differentiate them from you. At this point I had the clones simply facing the opposite direction. Their ship color matched the color of the weapon but only 1 player out of hundreds picked up on this.
+
+To remedy, the clones were changed to have their outlines partially transparent, giving a "ghost" feel. Each level the player picks up a weapon "core" glowing the same color that the bullets fire.
 
 ### Mechanics of Conflict Resolution
 

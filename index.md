@@ -6,6 +6,8 @@ layout: main
 srtrs
 ###[> Quantum Pilot: Clone enemies remember how you killed them and fight back mirroring your attack](https://itunes.apple.com/us/app/quantum-pilot/id935956154?mt=8)
 
+###[> Zap Bear: Wear Sunglasses, Dodge ϟ](https://itunes.apple.com/us/app/zapbear/id1016670264)
+
 #Edible Essays
 
 ###[> Designing Minimalist Interfaces For Teaching New Cognitive Tool Use](designing_minimalist/index.html)

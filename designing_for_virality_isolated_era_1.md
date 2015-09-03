@@ -1,9 +1,9 @@
 ---
-title: Designing for Virality: Scarcity
+title: Designing for Virality - Scarcity
 layout: default
 ---
 
-#Designing for Virality with Scarcity
+# Designing for Virality: Scarcity
 
 There was magic in the arcades of old. Newcomers could not simply pick up and play a popular game -- they had to watch in awe for the completion or failure of the existing player. Iagine a game with a single board or dedicated arena for 2 players. New players queue in line, their avatars shuffling forward towards a mountain lurking in the distance. On their way, they can see a live turn-by-turn game projected into the sky of the gameworld. The game is configured to run on a consistent timer, with a short break between each round.
 

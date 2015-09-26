@@ -11,7 +11,7 @@ Well there's more than Featured, you might say. For example, scrolling down in t
 
 This opaque featuring process is very frustrating for me personally. Last fall for the October Ludum Dare I released Quantum Pilot, an arcade shooter where the enemy ship copies how you kill them, so you have to outsmart yourself. From then until now I have been visiting conferences (Indiecade & ECGCONF), observing playtesters, gathering feedback, updating the game, all for the sake of making an excellent game to bring joy to players. It is a "Pay once and play" arcade shooter -- yet I have no idea how those game collections were formed, or if I could have done anything differently to land a feature spot.
 
-->![]({{site.url}}/assets/gamecollections.png =320x568) ![](/assets/quantumpilotreviews.png =320x568)<-
+->![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/gamecollections.PNG =320x568) ![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/quantumpilotreviews.PNG =320x568)<-
 
 ->LEFT: Mysteriously chosen game collections. RIGHT: A pay once & play Arcade Shooter with Replay sharing.<-
 
@@ -21,7 +21,7 @@ Obviously I need to figure out how to efficiently market my indie games -- there
 
 Ok, so how do I get in with Apple? It's here I realize that many of the featured developers have been FEATURED BEFORE. More specifically I've noticed Ketchapp and Appsolute Games repeatedly showing up with at least 1 game in the Featured section when I check it every few days to search for commonalities between featured developers. If you do a search for either of these names on the App Store you'll find dozens of games -- many of them very similar to each other. I respect that these developers have found what works -- making simple action games with ads + in app purchase powerups, using Apple features to garner thousands of downloads, make thousands of dollars, repeat. Perhaps saving up to make the games they "really want to make". (I hope they don't want to make the same endless jumpers & reaction games forever..).
 
-->![](/assets/10gamesinreplay.png =320x568) ![](/assets/gamedetail.png =320x568)<-
+->![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/10gamesinreplay.PNG =320x568) ![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/gamedetail.PNG =320x568)<-
 
 ->LEFT: Just 10 games in the Replay category. RIGHT: A feedback loop.<-
 

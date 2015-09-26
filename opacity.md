@@ -11,7 +11,7 @@ Well there's more than Featured, you might say. For example, scrolling down in t
 
 This opaque featuring process is very frustrating for me personally. Last fall for the October Ludum Dare I released Quantum Pilot, an arcade shooter where the enemy ship copies how you kill them, so you have to outsmart yourself. From then until now I have been visiting conferences (Indiecade & ECGCONF), observing playtesters, gathering feedback, updating the game, all for the sake of making an excellent game to bring joy to players. It is a "Pay once and play" arcade shooter -- yet I have no idea how those game collections were formed, or if I could have done anything differently to land a feature spot.
 
-->![](/assets/gamecollections.png =320x568) ![](/assets/quantumpilotreviews.png =320x568)<-
+->![]({{site.url}}/assets/gamecollections.png =320x568) ![](/assets/quantumpilotreviews.png =320x568)<-
 
 ->LEFT: Mysteriously chosen game collections. RIGHT: A pay once & play Arcade Shooter with Replay sharing.<-
 
@@ -31,3 +31,4 @@ Ultimately, Apple has a large monopoly on iOS game discovery. Maybe this will ch
 
 These are just fantasies, however. In the meantime, I'll just have to continually iterate on my craft, gaining experience until I make something "sticky" enough that it "goes viral" immediately upon Consumer eyes. I fear for the future of game development as we continue to devote more resources into marketing & viral transmission of our games detracting from gameplay and aesthetics.
 
+#Related

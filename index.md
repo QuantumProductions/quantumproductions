@@ -9,7 +9,7 @@ layout: main
 
 #Edible Essays
 
-###[> Opacity: iOS Game Discovery is Broken](opacity)
+###[> Opacity: iOS Game Discovery is Broken](opacity/index.html)
 
 ###[> Designing for Virality in an Era of Isolated Players: Scarcity](designing_for_virality_isolated_era_1/index.html)
 

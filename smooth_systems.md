@@ -9,7 +9,7 @@ Have you ever been stuck in a boss fight, dodging the boss's super attack and fo
 
 At the outset, this kind of sucks, but as a player you quickly learn "Boss is invincible there".. then get to play through and enjoy the next sequence of attacks. In the end you get to look back on a tense fight where you put all of your skills carefully honed over the game's progress to the test and be proud of your accomplishment.
 
-->!()[https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/redeyeghoma.png =320x568]<-
+->![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/redeyeghoma.png =320x568)<-
 
 In many multiplayer games, recently killed players re-enter the game with "spawn invincibility", 99% of the time with no in-game fiction to support it. But players invariably understand -- it's to prevent the frustrating "spawn-killing" tactic from suceeding, where a player spawns and is immediately blasted by a fatal attack from a cunning opponent. 
 
@@ -25,7 +25,7 @@ Take a look at the Shield mechanics of Super Smash Bros. Normally, shielding an 
 
 But there's another level. Players who perform a Jump in Attack can tap the recovery button on landing to trigger a "Land Cancel" - instantly zeroing the attack's recovery animation. By itself this wouldn't help the attacking player, as the defender is still inside their shield. But shields have a vulnerability in the -- grabs. The shielding player is stuck inside of "hitstun" (stunned from their shield being hit by the attack), so they cannot counter or escape. The attacker hitting with a Jump in Attack then Land Cancelling has the opportunity for a free grab - breaking the opponent's shield and leading to a high damage combo situation.
 
-->!()[https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/landcancel.png =320x568]<-
+->![](https://raw.githubusercontent.com/QuantumProductions/quantumproductions.github.io/master/assets/landcancel.png =320x568)<-
 
 Figuring this attack pattern out is a huge "aha" moment. This innovation is only possible because Super Smash Bros. offers consistent mechanics - no special protection or counter is offered to the defending player here. This forces defending players to rely on their Shield only for ground attacks against more-skilled players, evolving the metagame in an interesting fashion.
 

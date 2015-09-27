@@ -31,6 +31,6 @@ Figuring this attack pattern out is a huge "aha" moment. This innovation is only
 
 Are these forced grabs "broken"? I don't think they are -- they are a trap that rewards skilled players who know how to innovate with the mechanics. This is not "unfair", it is rewarding players who innovate with the game's consistent mechanics, just like a first person shooter player who figures out how to aim their reticule just a tad higher than normal to be at the proper plane for easy headshots.
 
-Conclusion
+# Conclusion
 
 Always design for fun. When you can keep your mechanics consistent and allow for innovation, you bring your world alive to players and offer even more fun. For more reading on this subject, checkout the [Game Design Deep Dive on Titan Soul's 1-hit kill mechanic for bosses & the player.](http://www.gamasutra.com/view/news/242861/Game_Design_Deep_Dive_Onehit_kills_in_Titan_Souls.php)

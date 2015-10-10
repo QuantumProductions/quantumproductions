@@ -9,6 +9,8 @@ layout: main
 
 #Edible Essays
 
+###[> Designing the Metagame: Decision Making in Chess](designing_metagame/index.html)
+
 ###[> Smooth Systems: Designing for Fun with Consistency](smooth_systems/index.html)
 
 ###[> Opacity: iOS Game Discovery is Broken](opacity/index.html)
